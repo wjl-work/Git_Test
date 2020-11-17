@@ -4,8 +4,5 @@
 第2次写入！！！
 
 create new branch dev..
-<<<<<<< HEAD
 create new branch master————uat..
-=======
 create new branch uat..
->>>>>>> UAT
